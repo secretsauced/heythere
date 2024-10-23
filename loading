@@ -32,9 +32,9 @@
                 <li>SEO Optimization</li>
                 <li>Content Creation</li>
             </ul>
-            <!-- Button linking to Fireplace Distributor -->
-            <a href="https://www.fireplacedistributors.com" target="_blank">
-                <button>Fireplace Distributor</button>
+            <!-- Corrected Button linking to Fireplace Distributor -->
+            <a href="https://www.fireplacedistributors.com" target="_blank" class="button-link">
+                Fireplace Distributor
             </a>
         </section>
 
